@@ -1,0 +1,19 @@
+.banner {
+    background: url(img/desaplaga.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.contact {
+    background: url(img/white.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    
+}
+
+.activities {
+    text-align: center;
+}
